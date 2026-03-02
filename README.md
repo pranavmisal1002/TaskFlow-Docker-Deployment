@@ -21,7 +21,6 @@ A comprehensive guide to deploying a 3-tier MERN stack application using Docker 
 - [Phase 10: Run Frontend](#phase-12--run-frontend-container)
 - [Phase 11: Verify Deployment](#phase-13--verify-containers)
 - [Phase 12: Access Application](#phase-14--access-application)
-- [Troubleshooting](#troubleshooting)
 
 ---
 
