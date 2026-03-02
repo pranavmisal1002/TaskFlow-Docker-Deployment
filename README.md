@@ -139,7 +139,7 @@ Docker version 24.0.x, build xxxxx
 ### Clone Repository
 
 ```bash
-git clone git@github.com:pranavmisal1002/TaskFlow-Docker-Deployment.git
+git clone https://github.com/pranavmisal1002/TaskFlow-Docker-Deployment.git
 cd Application-Code
 ```
 
